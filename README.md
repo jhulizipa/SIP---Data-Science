@@ -1,7 +1,9 @@
 # SIP---Data-Science
 
 Datos: Concepto puntual que se tiene de algo.
+
 Información:Descripción de múltiples conceptos que tenemos para entender algo.
+
 Conocimiento:Es la comprensión que tenemos de algo en base a la información que tenemos.
 
 
