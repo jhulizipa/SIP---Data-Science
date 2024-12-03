@@ -7,6 +7,8 @@ Información:Descripción de múltiples conceptos que tenemos para entender algo
 Conocimiento:Es la comprensión que tenemos de algo en base a la información que tenemos.
 
 
+
+
 Tipos de analíticas de datos y ejemplos
 
 Analítica descriptiva: Se centra en el tratado de los datos, buscando analizar el pasado y responder a la pregunta
