@@ -47,10 +47,15 @@ Un Análisis que combina las anteriores para mostrar una forma de ejecutar una e
 
 
 **Notación Matemática**
+
 **a)**	4 + 8 / 2 – 3 = 5
+
 **b)**	19 + (22 – 8 x 2) – 2 = 23
+
 **c)**	{5 – 4 + 2(2 – 1) + 9 = 13
+
 **d)**	{2 + 6(2 x 5) – 10 / 2) = 13
+
 **e)**	{20 + [5 – 60 / 3 + 2(4 – 3)]} = 10
 
 
